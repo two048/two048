@@ -1,4 +1,3 @@
-- I’m looking to collaborate on any kind of computational projects, I'm willing to learn.
 - Reach me at: bhanups.2048@gmail.com
 
 <!---
